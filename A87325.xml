@@ -1,0 +1,192 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation published by the Lords justices and councell of Ireland, to annull and make void all protections unduly granted to the rebels by certaine commissioners in divers counties in Vlster, &amp;c. contrary to their instructions and the intention of the state.</title>
+            <author>Ireland. Lords Justices and Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87325</idno>
+            <idno type="STC">Wing I639</idno>
+            <idno type="STC">Thomason E124_31</idno>
+            <idno type="STC">ESTC R5458</idno>
+            <idno type="EEBO-CITATION">99872851</idno>
+            <idno type="PROQUEST">99872851</idno>
+            <idno type="VID">125297</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125297)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 22:E124[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation published by the Lords justices and councell of Ireland, to annull and make void all protections unduly granted to the rebels by certaine commissioners in divers counties in Vlster, &amp;c. contrary to their instructions and the intention of the state.</title>
+                  <author>Ireland. Lords Justices and Council.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at Dublin by William Bladen, Printer to the Kings most Excellent Majesty, and now reprinted at London for Edward Husbands,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "29. Octob:".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  Politics and government --  17th century. --  Early works to 1800.</term>
+               <term>Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125297:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 19 -->
+            <p>A PROCLAMATION publiſhed by the Lords Juſtices and Councell OF IRELAND, To annull and make void all Protecti<g ref="char:EOLhyphen"/>ons unduly granted to the Rebels by certaine Commiſſioners in divers Counties in Vlſter, &amp;c. contrary to their inſtructions and the intenti<g ref="char:EOLhyphen"/>on of the State.</p>
+            <p>Printed at <hi>Dublin</hi> by <hi>William Bladen,</hi> Printer to the Kings moſt Excellent Majeſty, and now reprinted at <hi>London</hi> for <hi>Edward Husbands,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:125297:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <pb facs="tcp:125297:2"/>
+            <!-- PDF PAGE 20 -->
+            <head>
+               <g ref="char:leaf">❧</g> A Proclamation, Publiſhed by the Lords Iuſtices and Councell of <hi>Ireland,</hi> to annull and make void all Protections unduly granted to the Rebels by certaine Com<g ref="char:EOLhyphen"/>miſſioners in divers Counties in <hi>Vlſter</hi> &amp;c. con<g ref="char:EOLhyphen"/>trary to their Inſtructions, and the inten<g ref="char:EOLhyphen"/>tion of the State.</head>
+            <opener>
+               <signed>
+                  <list>
+                     <item>W. Parſons,</item>
+                     <item>Jo. Borlaſe.</item>
+                  </list>
+               </signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in the beginning of this hideous and deteſtable Rebel<g ref="char:EOLhyphen"/>lion, We the Lords Iuſtices and Councell, deſirous, if it might be, to give ſome ſudden ſtop there<g ref="char:EOLhyphen"/>unto, ſo to prevent the ſpreading thereof, and the growth of it to that heigth to which it hath ſithence riſen, and concei<g ref="char:EOLhyphen"/>ving that at that time the multitude was by evill Councell or falſe rumours, ſedu<g ref="char:EOLhyphen"/>ced to partake in that Rebellion, who not knowing the truth and depth of the combination, We did think, could not ſo wretchedly faile in their duty and loyalty to their moſt gracious King and Sove<g ref="char:EOLhyphen"/>raign, as ſo univerſally to perſiſt in their
+<pb facs="tcp:125297:3"/>
+               <!-- PDF PAGE 21 -->
+courſe of diſobedience to His Maieſties authority, but would with treatable and faire admonitions, laying before them their great danger and the iniquity of their enterpriſe, have returned to their obedience; Wee therefore on the <hi>27</hi> of Oetober laſt authoriſed divers perſons ot quality and truſt for the ſeveral Coun<g ref="char:EOLhyphen"/>ties of Down, Antrim, Armagh, Mo<g ref="char:EOLhyphen"/>naghan, Cavan, Tirone, and Ferma<g ref="char:EOLhyphen"/>nagh (amongſt other powers then en<g ref="char:EOLhyphen"/>truſted with them) to parly with the Re<g ref="char:EOLhyphen"/>bels, or any of them, and by Proclamati<g ref="char:EOLhyphen"/>on, or otherwiſe, to proffer his Maieſties grace and mercy to them, or any of them, and to receive ſuch of them into his Ma<g ref="char:EOLhyphen"/>ieſties grace and mercy as ſhould ſubmit themſelves and deſire the ſame. Yet We held it fit then to accompany the ſaid Commiſſion with our letters to the ſaid Commiſſioners, wherein we ſignified to them, that although by the ſaid Commiſ<g ref="char:EOLhyphen"/>ſion we gave them that power, yet wee did then let them know, that for thoſe who were chiefe amongſt the Rebels, and Ring-leaders of the reſt to diſobedi<g ref="char:EOLhyphen"/>ence,
+<pb facs="tcp:125297:3"/>
+               <!-- PDF PAGE 21 -->
+that we adiudged them leſſe wor<g ref="char:EOLhyphen"/>thy of favour than the others, whom they had miſ guided. And therefore for thoſe principal perſons we required them to take care not to be too forward (with<g ref="char:EOLhyphen"/>out firſt conſulting this Board) in profe<g ref="char:EOLhyphen"/>ring or promiſing mercy to thoſe, unleſſe they the ſaid Commiſſioners ſaw it of great and unavoidable neceſſity: which power entruſted by Vs with the ſaid Commiſſioners was then granted, in re<g ref="char:EOLhyphen"/>ſpect of the comuncture of affairs at that tune, and to anſwer the then ſudden ex<g ref="char:EOLhyphen"/>tremities in the publike ſervice. And wheras we have now received informa<g ref="char:EOLhyphen"/>tion that a long time after the ſaid power entruſted with them, and when the ſtate <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Countrey was far different from <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Condition wherein it ſtood, at the iſ<g ref="char:EOLhyphen"/>ſuing of the ſaid Commiſſion, and after the generall Conſpiracy was fully diſco<g ref="char:EOLhyphen"/>vered; and that the Rebels of all degrees and conditions had with hatefull and bloody obſtinacy declared their purpoſe to extirp the Britiſh throughout the whole kingdom, without hope of recon<g ref="char:EOLhyphen"/>cilement,
+<pb facs="tcp:125297:4"/>
+               <!-- PDF PAGE 22 -->
+other then by y<hi rend="sup">e</hi> ſtrength of his Maieſties forces; ſome of the ſaid Com<g ref="char:EOLhyphen"/>miſſioners (notwithſtanding the premo<g ref="char:EOLhyphen"/>nition given them by our ſaid Letters, &amp; without conſulting this Board therein) have given Protections of late to many of y<hi rend="sup">e</hi> ſaid Rebels, being principal perſons &amp; Freeholders, which protections are (in ſundry reſpects) found to be a mighty hindrance to his Maieſties ſervice in thoſe parts, and tending to his Maie<g ref="char:EOLhyphen"/>ſties loſſe and diſadvantage. And albeit we are informed that thoſe perſons ſo protected, have by their miſ-behaviours ſince the protections granted to them, violated the expreſſe, or implyed conditi<g ref="char:EOLhyphen"/>ons of all protections, which beſides the unſeaſonableneſſe of the granting of them, contrary to the intent of our d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>rection in our ſaid Letters, might iuſtly give cauſe to have thoſe Rebels immedi<g ref="char:EOLhyphen"/>ately faln upon and cut off. Yet in regard we who are entruſted here by his Maie<g ref="char:EOLhyphen"/>ſty for the government of this his King<g ref="char:EOLhyphen"/>dom and People, are ſo tender of his Maieſties honour, as we neither have
+<pb facs="tcp:125297:4"/>
+               <!-- PDF PAGE 22 -->
+done, nor will do any thing, that by any conſtruction, can be interpreted a breach of any word given by Vs, or any other authoriſed by Vs.</p>
+            <p>We think fit before we proceed to the iuſt correction of thoſe Rebels, hereby to publiſh &amp; declare, that all the ſaid Prote<g ref="char:EOLhyphen"/>ctions granted ſince the firſt of March laſt to any perſon or perſons whatſoever, in the County of Downe, or other Coun<g ref="char:EOLhyphen"/>ties above named, ſhall at the end of ten dayes next after the publiſhing of this Proclamation at Down-Patrick or Strangford in the ſaid County of Down, or at any other publike place in any of the ſaid Counties reſpectively ſtand vo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and be annulled, repealed and revoked. And we doe hereby accordingly from and af<g ref="char:EOLhyphen"/>ter the ſaid ten dayes revoke, repeale, make void and annull them, and every of them, to all intents and purpoſes, as if they had never been granted, and do or<g ref="char:EOLhyphen"/>der that from and after the ſaid ten daies, they be of no force, nor derive any benefit, protection or ſecurity to any of the parties to whom they were ſo granted. And this
+<pb facs="tcp:125297:5"/>
+               <!-- PDF PAGE 23 -->
+Proclamation Wee require the Sheriff of the County of Down, and the ſeve<g ref="char:EOLhyphen"/>rall Sheriffs of the ſaid ſeverall Coun<g ref="char:EOLhyphen"/>ties reſpectively, to cauſe to be proclaimed and publiſhed at Down-Patrick and Strangford aforeſaid, and at ſome pub<g ref="char:EOLhyphen"/>like places in the ſaid ſeverall Counties reſpectively, that ſo all perſons whom it may concern may take notice therof, and that hereafter when by the power and Strength of His Maieſties Army the ſaid Offenders receive due puniſhment for their high tranſgreſſions, they may not have any colour to pretend the leaſt breach of word in this Seate or any the Miniſters thereof:</p>
+            <closer>
+               <dateline>Given at his Majeſties Caſtle of Dublin <date>the 19 day of Auguſt. 1642.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>La. Dublin.</item>
+                     <item>Ormond Oſſory.</item>
+                     <item>Cha. Lambert.</item>
+                     <item>Ad. Loftus.</item>
+                     <item>I. Temple.</item>
+                     <item>Tho. Lucas.</item>
+                     <item>Ia. Ware.</item>
+                     <item>Rob. Meredith.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:125297:5"/>
+            <!-- PDF PAGE 23 -->
+         </div>
+      </body>
+   </text>
+</TEI>
